@@ -1,0 +1,14 @@
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\bin\Debug\net9.0\exercise-3-csharp.exe
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\bin\Debug\net9.0\exercise-3-csharp.deps.json
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\bin\Debug\net9.0\exercise-3-csharp.runtimeconfig.json
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\bin\Debug\net9.0\exercise-3-csharp.dll
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\bin\Debug\net9.0\exercise-3-csharp.pdb
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.AssemblyInfoInputs.cache
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.AssemblyInfo.cs
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.csproj.CoreCompileInputs.cache
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.dll
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\refint\exercise-3-csharp.dll
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.pdb
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\exercise-3-csharp.genruntimeconfig.cache
+D:\Exercise 3\c#2\exercise-3-csharp\exercise-3-csharp\obj\Debug\net9.0\ref\exercise-3-csharp.dll
